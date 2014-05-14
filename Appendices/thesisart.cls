@@ -1,0 +1,1 @@
+../Chapters/thesisart.cls
